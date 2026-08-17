@@ -1,0 +1,288 @@
+# Veena Email vs Current Google Sheet Export
+
+Source email: Veena Dandapani, `Re: Next Steps and Discussion Document`, sent 2026-08-06 13:27 UTC.
+Sheet export compared: `SpurIQ_SLCDigital_Pilot_Execution_Plan_export_2026-08-16.xlsx`.
+No Google Sheet edits have been made.
+
+## Remove List Check
+
+- Airwallex: FOUND in sheet; proposed action: mark as remove / deprioritize.
+  - Target list row 3: Airwallex (UK) Limited | airwallex.com | United Kingdom | Licensed e-money / crypto firm | FCA Financial Services Register / Central Bank of Ireland
+  - Target list row 4: AIRWALLEX (UK) LIMITED | airwallex.com | United Kingdom | Licensed e-money / crypto firm | FCA Financial Services Register / Central Bank of Ireland
+  - Target list row 370: Airwallex (Netherlands) B.V. | airwallex.com | Netherlands | Licensed e-money / crypto firm | National e-money registers (EBA EUCLID)
+  - Do not contact row 27: Airwallex | airwallex.com | Australia | B2B only | Removed by Veena 6 Aug
+- Payoneer: FOUND in sheet; proposed action: mark as remove / deprioritize.
+  - Target list row 104: Payoneer Europe B.V. | payoneer.com | United Kingdom | Licensed e-money / crypto firm | FCA Financial Services Register / Central Bank of Ireland
+  - Target list row 105: Payoneer Europe Limited | payoneer.com | United Kingdom | Licensed e-money / crypto firm | FCA Financial Services Register / Central Bank of Ireland
+  - Target list row 106: Payoneer Payment Services (UK) Limited | payoneer.com | United Kingdom | Licensed e-money / crypto firm | FCA Financial Services Register / Central Bank of Ireland
+  - Target list row 443: Payoneer Europe B.V. | payoneer.com | Netherlands | Licensed e-money / crypto firm | National e-money registers (EBA EUCLID)
+  - Do not contact row 32: Payoneer | payoneer.com | United States | B2B only | Removed by Veena 6 Aug
+- Moneycorp: FOUND in sheet; proposed action: mark as remove / deprioritize.
+  - Do not contact row 30: Moneycorp | moneycorp.com | United Kingdom | B2B only | Removed by Veena 6 Aug
+- Ebury: FOUND in sheet; proposed action: mark as remove / deprioritize.
+  - Do not contact row 29: Ebury | ebury.com | United Kingdom | B2B only | Removed by Veena 6 Aug
+- 3S Money: FOUND in sheet; proposed action: mark as remove / deprioritize.
+  - Target list row 2: 3S Money Club Limited | 3s.money | United Kingdom | Licensed e-money / crypto firm | FCA Financial Services Register / Central Bank of Ireland
+  - Target list row 364: 3S Money (Luxembourg) S.A. | 3s.money | Luxembourg | Licensed e-money / crypto firm | National e-money registers (EBA EUCLID)
+  - Do not contact row 9: 3S Money | 3s.money | Luxembourg | Warm intro + B2B | Assigned to Andre; also removed by Veena as B2B
+- Tide: FOUND in sheet; proposed action: mark as remove / deprioritize.
+  - Target list row 192: Tide Platform Limited |  | United Kingdom | Licensed e-money / crypto firm | FCA Financial Services Register / Central Bank of Ireland
+  - Do not contact row 33: Tide | tide.co | United Kingdom | B2B only | Removed by Veena 6 Aug
+- MultiPass: FOUND in sheet; proposed action: mark as remove / deprioritize.
+  - Target list row 65: MultiPass Platforms Limited | multipass.co | United Kingdom | Licensed e-money / crypto firm | FCA Financial Services Register / Central Bank of Ireland
+  - Do not contact row 31: MultiPass | multipass.co | United Kingdom | B2B only | Removed by Veena 6 Aug
+- thinkmoney: FOUND in sheet; proposed action: mark as remove / deprioritize.
+  - Priority Target List row 100: Think Money | thinkmoney.co.uk | United Kingdom | Wallet / payment | SLC research file (Hunter) — rated 1, Reach out now | 1 (SLC)
+  - Target list row 191: Think Money Limited | thinkmoney.co.uk | United Kingdom | Licensed e-money / crypto firm | FCA Financial Services Register / Central Bank of Ireland
+  - Do not contact row 34: thinkmoney | thinkmoney.co.uk | United Kingdom | B2B only | Removed by Veena 6 Aug
+- DiPocket: FOUND in sheet; proposed action: mark as remove / deprioritize.
+  - Target list row 30: DiPocket Limited | dipocket.org | United Kingdom | Licensed e-money / crypto firm | FCA Financial Services Register / Central Bank of Ireland
+  - Do not contact row 28: DiPocket | dipocket.org | Hungary | B2B only | Removed by Veena 6 Aug
+
+## Add / Priority List Check
+
+- MetaMask: already present in sheet.
+  - Priority Target List row 4: MetaMask | metamask.io | Global | Consumer wallet | Veena's email, 6 Aug 2026 | 
+- Trust Wallet: already present in sheet.
+  - Priority Target List row 6: Trust Wallet | trustwallet.com | Global | Consumer wallet | Veena's email, 6 Aug 2026 | 
+- Phantom: already present in sheet.
+  - Priority Target List row 5: Phantom | phantom.com | Global | Consumer wallet | Veena's email, 6 Aug 2026 | 
+- Exodus: already present in sheet.
+  - Priority Target List row 3: Exodus | exodus.com | Global | Consumer wallet | Veena's email, 6 Aug 2026 | 
+- Ledger Live: already present in sheet.
+  - Priority Target List row 2: Ledger Live | ledger.com | France | Consumer wallet | Veena's email, 6 Aug 2026 | 
+- Fireblocks: already present in sheet.
+  - Signals row 7: 6.0 | Already buys from a competitor |  |  | Fireblocks LinkedIn page, plus Numan's YubiKey list | https://www.linkedin.com/company/fireblocks | Fireblocks names Worldpay, BNY, Galaxy and Revolut as customers. Revolut is the one in scope. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+  - Signal Companies row 21: 2.0 | Fireblocks | fireblocks.com | 1.0 | Created an identity product role in Feb 2026 | Their LinkedIn profile shows the title and start date | https://www.linkedin.com/in/pavle-krivokuća-23500760/ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+  - Signal Companies row 22: 2.0 | Fireblocks | fireblocks.com | 1.0 | Product security role filled Jun 2025 | Their LinkedIn profile shows the title and start date | https://www.linkedin.com/in/danielsvartman/ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+  - Signal Companies row 27: 3.0 | Fireblocks | fireblocks.com | 1.0 | Expanding into stablecoin payments and tokenisation | Their LinkedIn company page | https://www.linkedin.com/company/fireblocks |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+  - Signal Companies row 31: 4.0 | Revolut | revolut.com | 3.0 | Fireblocks names them as a customer. Also on Numan's YubiKey list | Fireblocks LinkedIn page names their customers | https://www.linkedin.com/company/fireblocks |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+- DFNS: already present in sheet.
+  - Do not contact row 47: DFNS | dfns.co | France | EXCLUDE | Veena: already a customer
+- BitGo: already present in sheet.
+  - Priority Target List row 76: BitGo | bitgo.com | United States | Institutional wallet infrastructure | Veena's email, 6 Aug 2026 | 
+- Copper: already present in sheet.
+  - Priority Target List row 73: Copper | copper.co | United Kingdom | Institutional wallet infrastructure | Veena's email, 6 Aug 2026 | 
+- Taurus: already present in sheet.
+  - Signal Companies row 23: 2.0 | Taurus | taurushq.com | 1.0 | Security compliance role filled Jan 2026 | Their LinkedIn profile shows the title and start date | https://www.linkedin.com/in/marcantoinekunzi/ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+  - Signal Companies row 28: 3.0 | Taurus | taurushq.com | 1.0 | Launched a tokenised securities platform | Their LinkedIn company page | https://www.linkedin.com/company/taurus-sa |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+  - Sample Lead row 22: 2.0 | Taurus | taurushq.com | Marc-Antoine Künzi | Head of Security Compliance | Security compliance role filled Jan 2026 | Their LinkedIn profile shows the title and start date | https://www.linkedin.com/in/marcantoinekunzi/ | https://www.linkedin.com/in/marcantoinekunzi/ | Lausanne |  |  |  |  |  
+  - Sample Lead row 32: 3.0 | Taurus | taurushq.com | Mounir Attié | Product Manager | Launched a tokenised securities platform | Their LinkedIn company page | https://www.linkedin.com/company/taurus-sa | https://www.linkedin.com/in/mounir-atti%c3%a9-03b1ab176/ | London |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+  - Priority Target List row 72: Taurus | taurushq.com | Switzerland | Institutional wallet infrastructure | Veena's email, 6 Aug 2026 | 
+- Anchorage Digital: already present in sheet.
+  - Signal Companies row 17: 2.0 | Anchorage Digital | anchorage.com | 1.0 | Engineering lead hired Mar 2026 | Their LinkedIn profile shows the title and start date | https://www.linkedin.com/in/mariam-ragab/ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+  - Signal Companies row 24: 3.0 | Anchorage Digital | anchorage.com | 1.0 | New stablecoin product line, role created Jul 2026 | Their LinkedIn company page | https://www.linkedin.com/company/anchorage |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+  - Signal Companies row 25: 3.0 | Anchorage Digital | anchorage.com | 1.0 | New tokenisation product line | Their LinkedIn company page | https://www.linkedin.com/company/anchorage |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+  - Sample Lead row 24: 2.0 | Anchorage Digital | anchorage.com | Mariam Ragab | Engineering Lead | Engineering lead hired Mar 2026 | Their LinkedIn profile shows the title and start date | https://www.linkedin.com/in/mariam-ragab/ | https://www.linkedin.com/in/mariam-ragab/ | Canada |  |  |  |  |  |  |  |  |  |  |  |  |  
+  - Sample Lead row 29: 3.0 | Anchorage Digital | anchorage.com | Thomas D'Eletto | Product Lead VP, Stablecoin Issuance | New stablecoin product line, role created Jul 2026 | Their LinkedIn company page | https://www.linkedin.com/company/anchorage | https://www.linkedin.com/in/thomas-d-eletto-6663662/ | New York |  |  |  
+- Zodia Custody: already present in sheet.
+  - Priority Target List row 74: Zodia Custody | zodia-custody.com | United Kingdom | Institutional wallet infrastructure | Veena's email, 6 Aug 2026 | 
+- Ripple Custody: already present in sheet.
+  - Priority Target List row 78: Ripple Custody | ripple.com | United States | Institutional wallet infrastructure | Veena's email, 6 Aug 2026 | 
+- WalletConnect: already present in sheet.
+  - Priority Target List row 105: WalletConnect | reown.com | Global | Wallet infrastructure | Veena's email, 6 Aug 2026 | 
+- Privy: already present in sheet.
+  - Priority Target List row 109: Privy | privy.io | United States | Wallet infrastructure | Veena's email, 6 Aug 2026 | 
+- Dynamic: already present in sheet.
+  - Priority Target List row 107: Dynamic | dynamic.xyz | United States | Wallet infrastructure | Veena's email, 6 Aug 2026 | 
+- Magic: already present in sheet.
+  - Priority Target List row 108: Magic | magic.link | United States | Wallet infrastructure | Veena's email, 6 Aug 2026 | 
+- Turnkey: already present in sheet.
+  - Priority Target List row 110: Turnkey | turnkey.com | United States | Wallet infrastructure | Veena's email, 6 Aug 2026 | 
+- Safe: already present in sheet.
+  - Overview row 30: Hiring | Open roles in fraud, identity, trust & safety, IAM |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+  - Priority Target List row 104: Safe | safe.global | Global | Wallet infrastructure | Veena's email, 6 Aug 2026 | 
+  - Target list row 149: Safenet Trading Limited |  | United Kingdom | Licensed e-money / crypto firm | FCA Financial Services Register / Central Bank of Ireland
+  - Target list row 333: Safello | safello.com | Sweden | Licensed e-money / crypto firm | ESMA CASP register (CASPS.csv)
+  - Target list row 490: Yoursafe B.V./Bitsafe/Yoursafe Payments/Fromenty and Custard E-Commerce/Hushpay/Paynow/Yoursafe.nl/Verotel/BitSafePay/BitSafe Pay/BitSafe Payments/CardBilling/GayCharge/BitSafe Escrow/Verotel Merchant Services/Yourcash/Fund Me/Yourcard |  | Netherlands | Licensed e-money / crypto firm | National e-m
+- Web3Auth: already present in sheet.
+  - Priority Target List row 106: Web3Auth | web3auth.io | Global | Wallet infrastructure | Veena's email, 6 Aug 2026 | 
+- Coinbase Europe: already present in sheet.
+  - Signal Companies row 8: 1.0 | Coinbase Europe | coinbase.com | 1.0 | Licensed in Luxembourg | ESMA register | https://www.esma.europa.eu/publications-and-data/registers-and-data |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+  - Sample Lead row 8: 1.0 | Coinbase Europe | coinbase.com | Jeremy Antkowiak | CISO EMEA | Licensed in Luxembourg | ESMA register | https://www.esma.europa.eu/publications-and-data/registers-and-data | https://www.linkedin.com/in/jeremy-antkowiak-56844428/ | Luxembourg |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+  - Priority Target List row 51: Coinbase Europe | coinbase.com | Luxembourg | Digital asset exchange / wallet | Veena's email, 6 Aug 2026 + ESMA crypto licence register | 
+- Kraken: already present in sheet.
+  - Signal Companies row 30: 4.0 | Kraken | kraken.com | 1.0 | On Numan's YubiKey list. Also EU-licensed, so hits two signals | Numan's YubiKey list, plus the ESMA register | https://www.esma.europa.eu/publications-and-data/registers-and-data |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+  - Priority Target List row 49: Kraken | kraken.com | Ireland | Digital asset exchange / wallet | Veena's email, 6 Aug 2026 + ESMA crypto licence register | 
+  - Target list row 276: Kraken (Payward Europe) | kraken.com | Ireland | Licensed e-money / crypto firm | ESMA CASP register (CASPS.csv)
+- Bitpanda: already present in sheet.
+  - Signal Companies row 6: 1.0 | Bitpanda | bitpanda.com | 1.0 | Licensed in Austria and Malta | ESMA register | https://www.esma.europa.eu/publications-and-data/registers-and-data |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+  - Sample Lead row 3: 1.0 | Bitpanda | bitpanda.com | Mustapha Kammoun | Senior Information Security Specialist | Licensed in Austria and Malta | ESMA register | https://www.esma.europa.eu/publications-and-data/registers-and-data | https://www.linkedin.com/in/mustapha-kammoun/ | Berlin |  |  |  |  |  |  |  |  |  |  |  | 
+  - Priority Target List row 43: Bitpanda | bitpanda.com | Austria | Digital asset exchange / wallet | Veena's email, 6 Aug 2026 + ESMA crypto licence register | 
+  - Target list row 300: Bitpanda MT | bitpanda.com | Malta | Licensed e-money / crypto firm | ESMA CASP register (CASPS.csv)
+  - Target list row 377: Bitpanda Payments GmbH | bitpanda.com | Austria | Licensed e-money / crypto firm | National e-money registers (EBA EUCLID)
+- Bitstamp: already present in sheet.
+  - Priority Target List row 50: Bitstamp | bitstamp.net | Luxembourg | Digital asset exchange / wallet | Veena's email, 6 Aug 2026 + ESMA crypto licence register | 
+- Bitvavo: already present in sheet.
+  - Signal Companies row 7: 1.0 | Bitvavo | bitvavo.com | 1.0 | Licensed by the Dutch regulator | ESMA register of licensed crypto firms | https://www.esma.europa.eu/publications-and-data/registers-and-data |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+  - Signal Companies row 18: 2.0 | Bitvavo | bitvavo.com | 1.0 | Financial crime team being staffed | Their LinkedIn profile shows the title and start date | https://www.linkedin.com/in/ignacio-saini-ferron-400869201/ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+  - Sample Lead row 2: 1.0 | Bitvavo | bitvavo.com | Jeetan Patel | Chief Risk Officer | Licensed by the Dutch regulator | ESMA register of licensed crypto firms | https://www.esma.europa.eu/publications-and-data/registers-and-data | https://www.linkedin.com/in/jeetan-patel-3b333145/ | Netherlands |  |  |  |  |  |  |  |  
+  - Sample Lead row 26: 2.0 | Bitvavo | bitvavo.com | Ignacio Saini Ferron | Financial Crime Officer | Financial crime team being staffed | Their LinkedIn profile shows the title and start date | https://www.linkedin.com/in/ignacio-saini-ferron-400869201/ | https://www.linkedin.com/in/ignacio-saini-ferron-400869201/ | Amst
+  - Priority Target List row 57: Bitvavo | bitvavo.com | Netherlands | Digital asset exchange / wallet | Veena's email, 6 Aug 2026 + ESMA crypto licence register | 
+- Coinmerce: already present in sheet.
+  - Signal Companies row 9: 1.0 | Coinmerce | coinmerce.io | 1.0 | Licensed by the Dutch regulator | ESMA register | https://www.esma.europa.eu/publications-and-data/registers-and-data |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+  - Sample Lead row 4: 1.0 | Coinmerce | coinmerce.io | Erwin Veldhuis | Chief Technology Officer | Licensed by the Dutch regulator | ESMA register | https://www.esma.europa.eu/publications-and-data/registers-and-data | https://www.linkedin.com/in/erwin-veldhuis-99357ab/ | Netherlands |  |  |  |  |  |  |  |  |  |  |  |  |
+  - Priority Target List row 58: Coinmerce | coinmerce.io | Netherlands | Digital asset exchange / wallet | Veena's email, 6 Aug 2026 + ESMA crypto licence register | 
+- BLOX: already present in sheet.
+  - Priority Target List row 55: BLOX | weareblox.com | Netherlands | Digital asset exchange / wallet | Veena's email, 6 Aug 2026 + ESMA crypto licence register | 
+- Bitonic: already present in sheet.
+  - Signal Companies row 5: 1.0 | Bitonic | bitonic.nl | 1.0 | Licensed by the Dutch regulator | ESMA register | https://www.esma.europa.eu/publications-and-data/registers-and-data |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+  - Sample Lead row 10: 1.0 | Bitonic | bitonic.nl | Niels Ploeger | Chief Risk & Compliance Officer | Licensed by the Dutch regulator | ESMA register | https://www.esma.europa.eu/publications-and-data/registers-and-data | https://www.linkedin.com/in/nploeger/ | Netherlands |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+  - Priority Target List row 56: Bitonic | bitonic.nl | Netherlands | Digital asset exchange / wallet | Veena's email, 6 Aug 2026 + ESMA crypto licence register | 
+- Paymium: already present in sheet.
+  - Signal Companies row 13: 1.0 | Paymium | paymium.com | 1.0 | Licensed by the French regulator | ESMA register | https://www.esma.europa.eu/publications-and-data/registers-and-data |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+  - Sample Lead row 11: 1.0 | Paymium | paymium.com | Dominique R. | Chief Technology Officer | Licensed by the French regulator | ESMA register | https://www.esma.europa.eu/publications-and-data/registers-and-data | https://www.linkedin.com/in/dominique-r-6297302b/ | Paris |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+  - Priority Target List row 47: Paymium | paymium.com | France | Digital asset exchange / wallet | Veena's email, 6 Aug 2026 + ESMA crypto licence register | 
+- Deblock: already present in sheet.
+  - Signal Companies row 20: 2.0 | Deblock | deblock.com | 1.0 | Platform engineering lead hired Jan 2026 | Their LinkedIn profile shows the title and start date | https://www.linkedin.com/in/marcin-kubica-342262a6/ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+  - Signal Companies row 26: 3.0 | Deblock | deblock.com | 2.0 | Launched a crypto wallet built into a current account | Their LinkedIn company page | https://www.linkedin.com/company/deblock |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+  - Sample Lead row 23: 2.0 | Deblock | deblock.com | Marcin Kubica | Head of Platform Engineering | Platform engineering lead hired Jan 2026 | Their LinkedIn profile shows the title and start date | https://www.linkedin.com/in/marcin-kubica-342262a6/ | https://www.linkedin.com/in/marcin-kubica-342262a6/ | London |  |  |  
+  - Sample Lead row 27: 3.0 | Deblock | deblock.com | Mario Eguiluz Alebicto | Co-Founder & CTO | Launched a crypto wallet built into a current account | Their LinkedIn company page | https://www.linkedin.com/company/deblock | https://www.linkedin.com/in/marioeguiluzalebicto/ | London |  |  |  |  |  |  |  |  |  |  |  |  | 
+  - Sample Lead row 28: 3.0 | Deblock | deblock.com | Anthony V. | Head of Product | Launched a crypto wallet built into a current account | Their LinkedIn company page | https://www.linkedin.com/company/deblock | https://www.linkedin.com/in/anthonyvdp/ | London |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+- Meria: already present in sheet.
+  - Signal Companies row 12: 1.0 | Meria | meria.com | 1.0 | Licensed by the French regulator | ESMA register | https://www.esma.europa.eu/publications-and-data/registers-and-data |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+  - Sample Lead row 12: 1.0 | Meria | meria.com | Gugumus Arnaud | Chief Information Officer | Licensed by the French regulator | ESMA register | https://www.esma.europa.eu/publications-and-data/registers-and-data | https://www.linkedin.com/in/gugumus-arnaud-a4013a71/ | Metz |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+  - Priority Target List row 46: Meria | meria.com | France | Digital asset exchange / wallet | Veena's email, 6 Aug 2026 + ESMA crypto licence register | 
+- Swissquote: already present in sheet.
+  - Signal Companies row 14: 1.0 | Swissquote | swissquote.com | 1.0 | Licensed in Luxembourg | ESMA register | https://www.esma.europa.eu/publications-and-data/registers-and-data |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+  - Sample Lead row 13: 1.0 | Swissquote | swissquote.com | Samuel Monsempes | Associate Director of Cybersecurity Operations | Licensed in Luxembourg | ESMA register | https://www.esma.europa.eu/publications-and-data/registers-and-data | https://www.linkedin.com/in/samuel-monsempes/ | Geneva |  |  |  |  |  |  |  |  |  |  
+  - Priority Target List row 52: Swissquote | swissquote.com | Luxembourg | Digital asset exchange / wallet | Veena's email, 6 Aug 2026 + ESMA crypto licence register | 
+- Amdax: already present in sheet.
+  - Signal Companies row 2: 1.0 | Amdax | amdax.com | 1.0 | Licensed by the Dutch regulator | ESMA register | https://www.esma.europa.eu/publications-and-data/registers-and-data |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+  - Sample Lead row 5: 1.0 | Amdax | amdax.com | Jeroen van Vliet | Chief Technology Officer | Licensed by the Dutch regulator | ESMA register | https://www.esma.europa.eu/publications-and-data/registers-and-data | https://www.linkedin.com/in/jeroenv/ | Netherlands |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+  - Priority Target List row 54: Amdax | amdax.com | Netherlands | Digital asset exchange / wallet | Veena's email, 6 Aug 2026 + ESMA crypto licence register | 
+- Coinmotion: already present in sheet.
+  - Priority Target List row 44: Coinmotion | coinmotion.com | Finland | Digital asset exchange / wallet | Veena's email, 6 Aug 2026 + ESMA crypto licence register | 
+- Firi: already present in sheet.
+  - Signal Companies row 11: 1.0 | Firi | firi.com | 2.0 | Licensed by the Norwegian regulator | ESMA register | https://www.esma.europa.eu/publications-and-data/registers-and-data |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+  - Sample Lead row 6: 1.0 | Firi | firi.com | Cato Auestad | Chief Technology Officer | Licensed by the Norwegian regulator | ESMA register | https://www.esma.europa.eu/publications-and-data/registers-and-data | https://www.linkedin.com/in/catoauestad/ | Oslo |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+  - Sample Lead row 7: 1.0 | Firi | firi.com | Per Morten Sandstad | Head of Information Security | Licensed by the Norwegian regulator | ESMA register | https://www.esma.europa.eu/publications-and-data/registers-and-data | https://www.linkedin.com/in/per-morten-sandstad-5b1186239/ | Oslo |  |  |  |  |  |  |  |  |  |  |  
+  - Priority Target List row 59: Firi | firi.com | Norway | Digital asset exchange / wallet | Veena's email, 6 Aug 2026 + ESMA crypto licence register | 
+  - Target list row 403: Firi AS |  | Norway | Licensed e-money / crypto firm | National e-money registers (EBA EUCLID)
+- ZBX: already present in sheet.
+  - Priority Target List row 48: ZBX | zbx.com | Gibraltar | Digital asset exchange / wallet | Veena's email, 6 Aug 2026 + ESMA crypto licence register | 
+- Wirex: already present in sheet.
+  - Priority Target List row 61: Wirex | wirexapp.com | United Kingdom | Digital asset exchange / wallet | Veena's email, 6 Aug 2026 + ESMA crypto licence register | 
+  - Target list row 222: Wirex Limited | wirexapp.com | United Kingdom | Licensed e-money / crypto firm | FCA Financial Services Register / Central Bank of Ireland
+- Revolut: already present in sheet.
+  - Signals row 7: 6.0 | Already buys from a competitor |  |  | Fireblocks LinkedIn page, plus Numan's YubiKey list | https://www.linkedin.com/company/fireblocks | Fireblocks names Worldpay, BNY, Galaxy and Revolut as customers. Revolut is the one in scope. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+  - Signal Companies row 31: 4.0 | Revolut | revolut.com | 3.0 | Fireblocks names them as a customer. Also on Numan's YubiKey list | Fireblocks LinkedIn page names their customers | https://www.linkedin.com/company/fireblocks |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+  - Sample Lead row 34: 4.0 | Revolut | revolut.com | Vladyslav Yatsenko | Co-founder & CTO | Fireblocks names them as a customer. Also on Numan's YubiKey list | Fireblocks LinkedIn page names their customers | https://www.linkedin.com/company/fireblocks | https://www.linkedin.com/in/yatsenko/ | London |  |  |  |  |  |  | 
+  - Priority Target List row 60: Revolut | revolut.com | United Kingdom | Digital asset exchange / wallet | Veena's email, 6 Aug 2026 + ESMA crypto licence register | 
+  - Target list row 144: Revolut Ltd | revolut.com | United Kingdom | Licensed e-money / crypto firm | FCA Financial Services Register / Central Bank of Ireland
+- Crypto.com: already present in sheet.
+  - Signal Companies row 10: 1.0 | Crypto.com | crypto.com | 1.0 | Licensed in Malta | ESMA register | https://www.esma.europa.eu/publications-and-data/registers-and-data |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+  - Sample Lead row 9: 1.0 | Crypto.com | crypto.com | Jason Lau | Chief Information Security Officer | Licensed in Malta | ESMA register | https://www.esma.europa.eu/publications-and-data/registers-and-data | https://www.linkedin.com/in/jasonciso/ | Singapore |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+  - Priority Target List row 53: Crypto.com | crypto.com | Malta | Digital asset exchange / wallet | Veena's email, 6 Aug 2026 + ESMA crypto licence register | 
+  - Target list row 263: NorthCrypto | northcrypto.com | Finland | Licensed e-money / crypto firm | ESMA CASP register (CASPS.csv)
+- Sygnum Bank: already present in sheet.
+  - Priority Target List row 69: Sygnum Bank | sygnum.com | Switzerland | Institutional digital assets | Veena's email, 6 Aug 2026 | 
+- Archax: already present in sheet.
+  - Priority Target List row 70: Archax | archax.com | United Kingdom | Institutional digital assets | Veena's email, 6 Aug 2026 | 
+- Tokeny: already present in sheet.
+  - Priority Target List row 68: Tokeny | tokeny.com | Luxembourg | Institutional digital assets | Veena's email, 6 Aug 2026 | 
+- Ownera: already present in sheet.
+  - Priority Target List row 71: Ownera | ownera.io | United Kingdom | Institutional digital assets | Veena's email, 6 Aug 2026 | 
+- M2: already present in sheet.
+  - Priority Target List row 14: M2 | m2.com | UAE | Digital asset / digital bank | Veena's email, 6 Aug 2026 | 
+- Bybit: already present in sheet.
+  - Priority Target List row 9: Bybit Dubai | bybit.com | UAE | Digital asset / digital bank | Veena's email, 6 Aug 2026 | 
+  - Target list row 230: Bybit EU | bybit.eu | Austria | Licensed e-money / crypto firm | ESMA CASP register (CASPS.csv)
+- Binance MENA: already present in sheet.
+  - Priority Target List row 8: Binance MENA | binance.com | UAE | Digital asset / digital bank | Veena's email, 6 Aug 2026 | 
+- CoinMENA: already present in sheet.
+  - Priority Target List row 10: CoinMENA | coinmena.com | UAE | Digital asset / digital bank | Veena's email, 6 Aug 2026 | 
+- MidChains: already present in sheet.
+  - Priority Target List row 15: MidChains | midchains.com | UAE | Digital asset / digital bank | Veena's email, 6 Aug 2026 | 
+- Aquanow MENA: already present in sheet.
+  - Priority Target List row 7: Aquanow MENA | aquanow.com | UAE | Digital asset / digital bank | Veena's email, 6 Aug 2026 | 
+- Hex Trust: already present in sheet.
+  - Priority Target List row 13: Hex Trust Dubai | hextrust.com | UAE | Digital asset / digital bank | Veena's email, 6 Aug 2026 | 
+  - Priority Target List row 33: Hex Trust | hextrust.com | Singapore | Digital asset exchange / digital bank | Veena's email, 6 Aug 2026 | 
+- DMZ Finance: already present in sheet.
+  - Priority Target List row 11: DMZ Finance | dmzfinance.io | UAE | Digital asset / digital bank | Veena's email, 6 Aug 2026 | 
+- Standard Chartered Digital Assets: already present in sheet.
+  - Priority Target List row 16: Standard Chartered Digital Assets | sc.com | UAE | Digital asset / digital bank | Veena's email, 6 Aug 2026 | 
+- Emirates NBD Digital: already present in sheet.
+  - Priority Target List row 12: Emirates NBD Digital | emiratesnbd.com | UAE | Digital asset / digital bank | Veena's email, 6 Aug 2026 | 
+- Zand Bank: already present in sheet.
+  - Priority Target List row 18: Zand Bank | zand.ae | UAE | Digital asset / digital bank | Veena's email, 6 Aug 2026 | 
+- Wio Bank: already present in sheet.
+  - Priority Target List row 17: Wio Bank | wio.io | UAE | Digital asset / digital bank | Veena's email, 6 Aug 2026 | 
+- stc Bank: already present in sheet.
+  - Priority Target List row 67: stc Bank | stcbank.com.sa | Saudi Arabia | Digital bank / crypto | Veena's email, 6 Aug 2026 | 
+- Saudi National Bank: already present in sheet.
+  - Priority Target List row 66: Saudi National Bank | alahli.com | Saudi Arabia | Digital bank / crypto | Veena's email, 6 Aug 2026 | 
+- Riyad Bank: already present in sheet.
+  - Priority Target List row 65: Riyad Bank | riyadbank.com | Saudi Arabia | Digital bank / crypto | Veena's email, 6 Aug 2026 | 
+- Al Rajhi Bank: already present in sheet.
+  - Priority Target List row 64: Al Rajhi Bank | alrajhibank.com.sa | Saudi Arabia | Digital bank / crypto | Veena's email, 6 Aug 2026 | 
+- Rain: already present in sheet.
+  - Priority Target List row 62: Bank ABC Digital | bank-abc.com | Bahrain | Digital bank / crypto | Veena's email, 6 Aug 2026 | 
+  - Priority Target List row 63: Rain | rain.bh | Bahrain | Digital bank / crypto | Veena's email, 6 Aug 2026 | 
+- Bank ABC Digital: already present in sheet.
+  - Priority Target List row 62: Bank ABC Digital | bank-abc.com | Bahrain | Digital bank / crypto | Veena's email, 6 Aug 2026 | 
+- Independent Reserve: already present in sheet.
+  - Priority Target List row 34: Independent Reserve | independentreserve.com | Singapore | Digital asset exchange / digital bank | Veena's email, 6 Aug 2026 | 
+- DigiFT: already present in sheet.
+  - Priority Target List row 32: DigiFT | digift.sg | Singapore | Digital asset exchange / digital bank | Veena's email, 6 Aug 2026 | 
+- Matrixport: already present in sheet.
+  - Priority Target List row 35: Matrixport | matrixport.com | Singapore | Digital asset exchange / digital bank | Veena's email, 6 Aug 2026 | 
+- Cobo: already present in sheet.
+  - Priority Target List row 30: Cobo | cobo.com | Singapore | Digital asset exchange / digital bank | Veena's email, 6 Aug 2026 | 
+- Partior: already present in sheet.
+  - Priority Target List row 37: Partior | partior.com | Singapore | Digital asset exchange / digital bank | Veena's email, 6 Aug 2026 | 
+- DBS Digital Exchange: already present in sheet.
+  - Priority Target List row 31: DBS Digital Exchange | dbs.com | Singapore | Digital asset exchange / digital bank | Veena's email, 6 Aug 2026 | 
+- OCBC: already present in sheet.
+  - Priority Target List row 36: OCBC | ocbc.com | Singapore | Digital asset exchange / digital bank | Veena's email, 6 Aug 2026 | 
+- UOB: already present in sheet.
+  - Priority Target List row 39: UOB | uobgroup.com | Singapore | Digital asset exchange / digital bank | Veena's email, 6 Aug 2026 | 
+- StraitsX: already present in sheet.
+  - Priority Target List row 38: StraitsX | straitsx.com | Singapore | Digital asset exchange / digital bank | Veena's email, 6 Aug 2026 | 
+- OSL: already present in sheet.
+  - Sample Lead row 6: 1.0 | Firi | firi.com | Cato Auestad | Chief Technology Officer | Licensed by the Norwegian regulator | ESMA register | https://www.esma.europa.eu/publications-and-data/registers-and-data | https://www.linkedin.com/in/catoauestad/ | Oslo |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+  - Sample Lead row 7: 1.0 | Firi | firi.com | Per Morten Sandstad | Head of Information Security | Licensed by the Norwegian regulator | ESMA register | https://www.esma.europa.eu/publications-and-data/registers-and-data | https://www.linkedin.com/in/per-morten-sandstad-5b1186239/ | Oslo |  |  |  |  |  |  |  |  |  |  |  
+  - Priority Target List row 24: OSL | osl.com | Hong Kong | Digital asset exchange / digital bank | Veena's email, 6 Aug 2026 | 
+  - Target list row 234: OSL EU | osl.com | Austria | Licensed e-money / crypto firm | ESMA CASP register (CASPS.csv)
+  - Target list row 338: Videoslots (Immense Group) | videoslots.com | United Kingdom | Licensed e-money / crypto firm | UK Gambling Commission public register
+- HashKey: already present in sheet.
+  - Priority Target List row 22: HashKey | hashkey.com | Hong Kong | Digital asset exchange / digital bank | Veena's email, 6 Aug 2026 | 
+- ZA Bank: already present in sheet.
+  - Priority Target List row 25: ZA Bank | za.group | Hong Kong | Digital asset exchange / digital bank | Veena's email, 6 Aug 2026 | 
+- Mox Bank: already present in sheet.
+  - Priority Target List row 23: Mox Bank | mox.com | Hong Kong | Digital asset exchange / digital bank | Veena's email, 6 Aug 2026 | 
+- bitFlyer: already present in sheet.
+  - Priority Target List row 29: bitFlyer | bitflyer.com | Japan | Digital asset exchange / digital bank | Veena's email, 6 Aug 2026 | 
+  - Target list row 297: bitFlyer EUROPE | bitflyer.com | Luxembourg | Licensed e-money / crypto firm | ESMA CASP register (CASPS.csv)
+- Coincheck: already present in sheet.
+  - Priority Target List row 26: Coincheck | coincheck.com | Japan | Digital asset exchange / digital bank | Veena's email, 6 Aug 2026 | 
+- SBI VC Trade: already present in sheet.
+  - Priority Target List row 28: SBI VC Trade | sbivc.co.jp | Japan | Digital asset exchange / digital bank | Veena's email, 6 Aug 2026 | 
+- GMO Coin: already present in sheet.
+  - Priority Target List row 27: GMO Coin | coin.z.com | Japan | Digital asset exchange / digital bank | Veena's email, 6 Aug 2026 | 
+- Upbit: already present in sheet.
+  - Priority Target List row 42: Upbit | upbit.com | South Korea | Digital asset exchange / digital bank | Veena's email, 6 Aug 2026 | 
+- Bithumb: already present in sheet.
+  - Priority Target List row 40: Bithumb | bithumb.com | South Korea | Digital asset exchange / digital bank | Veena's email, 6 Aug 2026 | 
+- Korbit: already present in sheet.
+  - Priority Target List row 41: Korbit | korbit.co.kr | South Korea | Digital asset exchange / digital bank | Veena's email, 6 Aug 2026 | 
+- Swyftx: already present in sheet.
+  - Priority Target List row 21: Swyftx | swyftx.com | Australia | Digital asset exchange / digital bank | Veena's email, 6 Aug 2026 | 
+- BTC Markets: already present in sheet.
+  - Priority Target List row 19: BTC Markets | btcmarkets.net | Australia | Digital asset exchange / digital bank | Veena's email, 6 Aug 2026 | 
+- CoinSpot: already present in sheet.
+  - Priority Target List row 20: CoinSpot | coinspot.com.au | Australia | Digital asset exchange / digital bank | Veena's email, 6 Aug 2026 | 
+
+## Proposed Sheet Updates For Approval
+
+1. `Priority Target List`: align account list with Veena email, using `Veena email, 6 Aug 2026` as source.
+2. `Target list`: remove/deprioritize B2B/payment-provider accounts Veena explicitly removed if they appear there.
+3. `Do not contact` or a notes/status column: add DFNS as duplicate/remove because Veena wrote `DFNS (already have.. remove)`.
+4. `Overview`: keep wallet/payment-provider priority, but clarify that Veena narrowed the first target-account focus toward consumer wallets, wallet infrastructure, digital asset exchanges, institutional digital assets, and UAE/Saudi/Bahrain/Asia regional digital-asset targets.
+5. `Stage Plan`: update the segment-prioritisation notes to say SLC supplied corrected account list on 6 Aug 2026; account list needs approval/normalization before launch.
+6. `Signals`: no major signal-framework rewrite needed from this email alone; add regional registry/source checks only if the sheet lacks coverage for UAE, Saudi Arabia, Bahrain, Singapore, Hong Kong, Japan, South Korea, and Australia.
+
+## Caution
+
+Company-name matching is text-based against the current export. Short names such as `M2`, `Safe`, `Magic`, and `Rain` can create false positives if they appear in unrelated context, so those should be manually verified before editing.

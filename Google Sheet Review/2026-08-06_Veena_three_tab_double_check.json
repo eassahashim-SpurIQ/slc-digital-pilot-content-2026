@@ -1,0 +1,1173 @@
+{
+  "summary": {
+    "remove_found_target_list": [
+      "Airwallex",
+      "Payoneer",
+      "3S Money",
+      "Tide",
+      "MultiPass",
+      "DiPocket"
+    ],
+    "remove_found_priority_target_list": [],
+    "remove_already_in_do_not_contact": [
+      "Airwallex",
+      "Payoneer",
+      "Moneycorp",
+      "Ebury",
+      "3S Money",
+      "Tide",
+      "MultiPass",
+      "thinkmoney",
+      "DiPocket"
+    ],
+    "remove_missing_from_do_not_contact": [],
+    "add_missing_from_priority_target_list": [],
+    "add_missing_from_target_list_count": 73,
+    "add_missing_from_target_list": [
+      "MetaMask",
+      "Trust Wallet",
+      "Phantom",
+      "Exodus",
+      "Ledger Live",
+      "Fireblocks",
+      "BitGo",
+      "Copper",
+      "Taurus",
+      "Anchorage Digital",
+      "Zodia Custody",
+      "Ripple Custody",
+      "WalletConnect",
+      "Privy",
+      "Dynamic",
+      "Magic",
+      "Turnkey",
+      "Safe (formerly Gnosis Safe)",
+      "Web3Auth",
+      "Bitstamp",
+      "Bitvavo",
+      "Coinmerce",
+      "BLOX",
+      "Bitonic",
+      "Paymium",
+      "Deblock",
+      "Meria",
+      "Swissquote",
+      "Amdax",
+      "Coinmotion",
+      "ZBX",
+      "Crypto.com",
+      "Archax",
+      "Tokeny",
+      "Ownera",
+      "M2",
+      "Binance MENA",
+      "CoinMENA",
+      "MidChains",
+      "Aquanow MENA",
+      "Hex Trust",
+      "DMZ Finance",
+      "Standard Chartered Digital Assets",
+      "Emirates NBD Digital",
+      "Zand Bank",
+      "Wio Bank",
+      "stc Bank",
+      "Saudi National Bank",
+      "Riyad Bank",
+      "Al Rajhi Bank",
+      "Rain",
+      "Bank ABC Digital",
+      "Independent Reserve",
+      "DigiFT",
+      "Matrixport",
+      "Cobo",
+      "Partior",
+      "DBS Digital Exchange",
+      "OCBC",
+      "UOB",
+      "StraitsX",
+      "HashKey",
+      "ZA Bank",
+      "Mox Bank",
+      "Coincheck",
+      "SBI VC Trade",
+      "GMO Coin",
+      "Upbit",
+      "Bithumb",
+      "Korbit",
+      "Swyftx",
+      "BTC Markets",
+      "CoinSpot"
+    ],
+    "add_conflicts_in_do_not_contact": [],
+    "dfns_locations": {
+      "Target list": [],
+      "Priority Target List": [],
+      "Do not contact": [
+        {
+          "row": 47,
+          "company": "DFNS"
+        }
+      ]
+    }
+  },
+  "detail": {
+    "remove": {
+      "Airwallex": {
+        "Target list": [
+          {
+            "row": 3,
+            "company": "Airwallex (UK) Limited"
+          },
+          {
+            "row": 4,
+            "company": "AIRWALLEX (UK) LIMITED"
+          },
+          {
+            "row": 370,
+            "company": "Airwallex (Netherlands) B.V."
+          }
+        ],
+        "Priority Target List": [],
+        "Do not contact": [
+          {
+            "row": 27,
+            "company": "Airwallex"
+          }
+        ]
+      },
+      "Payoneer": {
+        "Target list": [
+          {
+            "row": 104,
+            "company": "Payoneer Europe B.V."
+          },
+          {
+            "row": 105,
+            "company": "Payoneer Europe Limited"
+          },
+          {
+            "row": 106,
+            "company": "Payoneer Payment Services (UK) Limited"
+          },
+          {
+            "row": 443,
+            "company": "Payoneer Europe B.V."
+          }
+        ],
+        "Priority Target List": [],
+        "Do not contact": [
+          {
+            "row": 32,
+            "company": "Payoneer"
+          }
+        ]
+      },
+      "Moneycorp": {
+        "Target list": [],
+        "Priority Target List": [],
+        "Do not contact": [
+          {
+            "row": 30,
+            "company": "Moneycorp"
+          }
+        ]
+      },
+      "Ebury": {
+        "Target list": [],
+        "Priority Target List": [],
+        "Do not contact": [
+          {
+            "row": 29,
+            "company": "Ebury"
+          }
+        ]
+      },
+      "3S Money": {
+        "Target list": [
+          {
+            "row": 2,
+            "company": "3S Money Club Limited"
+          },
+          {
+            "row": 364,
+            "company": "3S Money (Luxembourg) S.A."
+          }
+        ],
+        "Priority Target List": [],
+        "Do not contact": [
+          {
+            "row": 9,
+            "company": "3S Money"
+          }
+        ]
+      },
+      "Tide": {
+        "Target list": [
+          {
+            "row": 192,
+            "company": "Tide Platform Limited"
+          }
+        ],
+        "Priority Target List": [],
+        "Do not contact": [
+          {
+            "row": 33,
+            "company": "Tide"
+          }
+        ]
+      },
+      "MultiPass": {
+        "Target list": [
+          {
+            "row": 65,
+            "company": "MultiPass Platforms Limited"
+          }
+        ],
+        "Priority Target List": [],
+        "Do not contact": [
+          {
+            "row": 31,
+            "company": "MultiPass"
+          }
+        ]
+      },
+      "thinkmoney": {
+        "Target list": [],
+        "Priority Target List": [],
+        "Do not contact": [
+          {
+            "row": 34,
+            "company": "thinkmoney"
+          }
+        ]
+      },
+      "DiPocket": {
+        "Target list": [
+          {
+            "row": 30,
+            "company": "DiPocket Limited"
+          }
+        ],
+        "Priority Target List": [],
+        "Do not contact": [
+          {
+            "row": 28,
+            "company": "DiPocket"
+          }
+        ]
+      }
+    },
+    "add": {
+      "MetaMask": {
+        "Target list": [],
+        "Priority Target List": [
+          {
+            "row": 4,
+            "company": "MetaMask"
+          }
+        ],
+        "Do not contact": []
+      },
+      "Trust Wallet": {
+        "Target list": [],
+        "Priority Target List": [
+          {
+            "row": 6,
+            "company": "Trust Wallet"
+          }
+        ],
+        "Do not contact": []
+      },
+      "Phantom": {
+        "Target list": [],
+        "Priority Target List": [
+          {
+            "row": 5,
+            "company": "Phantom"
+          }
+        ],
+        "Do not contact": []
+      },
+      "Exodus": {
+        "Target list": [],
+        "Priority Target List": [
+          {
+            "row": 3,
+            "company": "Exodus"
+          }
+        ],
+        "Do not contact": []
+      },
+      "Ledger Live": {
+        "Target list": [],
+        "Priority Target List": [
+          {
+            "row": 2,
+            "company": "Ledger Live"
+          }
+        ],
+        "Do not contact": []
+      },
+      "Fireblocks": {
+        "Target list": [],
+        "Priority Target List": [
+          {
+            "row": 77,
+            "company": "Fireblocks"
+          }
+        ],
+        "Do not contact": []
+      },
+      "DFNS": {
+        "Target list": [],
+        "Priority Target List": [],
+        "Do not contact": [
+          {
+            "row": 47,
+            "company": "DFNS"
+          }
+        ]
+      },
+      "BitGo": {
+        "Target list": [],
+        "Priority Target List": [
+          {
+            "row": 76,
+            "company": "BitGo"
+          }
+        ],
+        "Do not contact": []
+      },
+      "Copper": {
+        "Target list": [],
+        "Priority Target List": [
+          {
+            "row": 73,
+            "company": "Copper"
+          }
+        ],
+        "Do not contact": []
+      },
+      "Taurus": {
+        "Target list": [],
+        "Priority Target List": [
+          {
+            "row": 72,
+            "company": "Taurus"
+          }
+        ],
+        "Do not contact": []
+      },
+      "Anchorage Digital": {
+        "Target list": [],
+        "Priority Target List": [
+          {
+            "row": 75,
+            "company": "Anchorage Digital"
+          }
+        ],
+        "Do not contact": []
+      },
+      "Zodia Custody": {
+        "Target list": [],
+        "Priority Target List": [
+          {
+            "row": 74,
+            "company": "Zodia Custody"
+          }
+        ],
+        "Do not contact": []
+      },
+      "Ripple Custody": {
+        "Target list": [],
+        "Priority Target List": [
+          {
+            "row": 78,
+            "company": "Ripple Custody"
+          }
+        ],
+        "Do not contact": []
+      },
+      "WalletConnect": {
+        "Target list": [],
+        "Priority Target List": [
+          {
+            "row": 105,
+            "company": "WalletConnect"
+          }
+        ],
+        "Do not contact": []
+      },
+      "Privy": {
+        "Target list": [],
+        "Priority Target List": [
+          {
+            "row": 109,
+            "company": "Privy"
+          }
+        ],
+        "Do not contact": []
+      },
+      "Dynamic": {
+        "Target list": [],
+        "Priority Target List": [
+          {
+            "row": 107,
+            "company": "Dynamic"
+          }
+        ],
+        "Do not contact": []
+      },
+      "Magic": {
+        "Target list": [],
+        "Priority Target List": [
+          {
+            "row": 108,
+            "company": "Magic"
+          }
+        ],
+        "Do not contact": []
+      },
+      "Turnkey": {
+        "Target list": [],
+        "Priority Target List": [
+          {
+            "row": 110,
+            "company": "Turnkey"
+          }
+        ],
+        "Do not contact": []
+      },
+      "Safe (formerly Gnosis Safe)": {
+        "Target list": [],
+        "Priority Target List": [
+          {
+            "row": 104,
+            "company": "Safe"
+          }
+        ],
+        "Do not contact": []
+      },
+      "Web3Auth": {
+        "Target list": [],
+        "Priority Target List": [
+          {
+            "row": 106,
+            "company": "Web3Auth"
+          }
+        ],
+        "Do not contact": []
+      },
+      "Coinbase Europe": {
+        "Target list": [
+          {
+            "row": 22,
+            "company": "Coinbase Ireland Limited"
+          },
+          {
+            "row": 298,
+            "company": "Coinbase"
+          },
+          {
+            "row": 385,
+            "company": "Coinbase Luxembourg S.A."
+          }
+        ],
+        "Priority Target List": [
+          {
+            "row": 51,
+            "company": "Coinbase Europe"
+          }
+        ],
+        "Do not contact": []
+      },
+      "Kraken": {
+        "Target list": [
+          {
+            "row": 276,
+            "company": "Kraken (Payward Europe)"
+          }
+        ],
+        "Priority Target List": [
+          {
+            "row": 49,
+            "company": "Kraken"
+          }
+        ],
+        "Do not contact": []
+      },
+      "Bitpanda": {
+        "Target list": [
+          {
+            "row": 300,
+            "company": "Bitpanda MT"
+          },
+          {
+            "row": 377,
+            "company": "Bitpanda Payments GmbH"
+          }
+        ],
+        "Priority Target List": [
+          {
+            "row": 43,
+            "company": "Bitpanda"
+          }
+        ],
+        "Do not contact": []
+      },
+      "Bitstamp": {
+        "Target list": [],
+        "Priority Target List": [
+          {
+            "row": 50,
+            "company": "Bitstamp"
+          }
+        ],
+        "Do not contact": []
+      },
+      "Bitvavo": {
+        "Target list": [],
+        "Priority Target List": [
+          {
+            "row": 57,
+            "company": "Bitvavo"
+          }
+        ],
+        "Do not contact": []
+      },
+      "Coinmerce": {
+        "Target list": [],
+        "Priority Target List": [
+          {
+            "row": 58,
+            "company": "Coinmerce"
+          }
+        ],
+        "Do not contact": []
+      },
+      "BLOX": {
+        "Target list": [],
+        "Priority Target List": [
+          {
+            "row": 55,
+            "company": "BLOX"
+          }
+        ],
+        "Do not contact": []
+      },
+      "Bitonic": {
+        "Target list": [],
+        "Priority Target List": [
+          {
+            "row": 56,
+            "company": "Bitonic"
+          }
+        ],
+        "Do not contact": []
+      },
+      "Paymium": {
+        "Target list": [],
+        "Priority Target List": [
+          {
+            "row": 47,
+            "company": "Paymium"
+          }
+        ],
+        "Do not contact": []
+      },
+      "Deblock": {
+        "Target list": [],
+        "Priority Target List": [
+          {
+            "row": 45,
+            "company": "Deblock"
+          }
+        ],
+        "Do not contact": []
+      },
+      "Meria": {
+        "Target list": [],
+        "Priority Target List": [
+          {
+            "row": 46,
+            "company": "Meria"
+          }
+        ],
+        "Do not contact": []
+      },
+      "Swissquote": {
+        "Target list": [],
+        "Priority Target List": [
+          {
+            "row": 52,
+            "company": "Swissquote"
+          }
+        ],
+        "Do not contact": []
+      },
+      "Amdax": {
+        "Target list": [],
+        "Priority Target List": [
+          {
+            "row": 54,
+            "company": "Amdax"
+          }
+        ],
+        "Do not contact": []
+      },
+      "Coinmotion": {
+        "Target list": [],
+        "Priority Target List": [
+          {
+            "row": 44,
+            "company": "Coinmotion"
+          }
+        ],
+        "Do not contact": []
+      },
+      "Firi": {
+        "Target list": [
+          {
+            "row": 403,
+            "company": "Firi AS"
+          }
+        ],
+        "Priority Target List": [
+          {
+            "row": 59,
+            "company": "Firi"
+          }
+        ],
+        "Do not contact": []
+      },
+      "ZBX": {
+        "Target list": [],
+        "Priority Target List": [
+          {
+            "row": 48,
+            "company": "ZBX"
+          }
+        ],
+        "Do not contact": []
+      },
+      "Wirex": {
+        "Target list": [
+          {
+            "row": 222,
+            "company": "Wirex Limited"
+          }
+        ],
+        "Priority Target List": [
+          {
+            "row": 61,
+            "company": "Wirex"
+          }
+        ],
+        "Do not contact": []
+      },
+      "Revolut": {
+        "Target list": [
+          {
+            "row": 144,
+            "company": "Revolut Ltd"
+          },
+          {
+            "row": 246,
+            "company": "Revolut Digital Assets"
+          }
+        ],
+        "Priority Target List": [
+          {
+            "row": 60,
+            "company": "Revolut"
+          }
+        ],
+        "Do not contact": []
+      },
+      "Crypto.com": {
+        "Target list": [],
+        "Priority Target List": [
+          {
+            "row": 53,
+            "company": "Crypto.com"
+          }
+        ],
+        "Do not contact": []
+      },
+      "Sygnum Bank": {
+        "Target list": [
+          {
+            "row": 292,
+            "company": "Sygnum Europe"
+          }
+        ],
+        "Priority Target List": [
+          {
+            "row": 69,
+            "company": "Sygnum Bank"
+          }
+        ],
+        "Do not contact": []
+      },
+      "Archax": {
+        "Target list": [],
+        "Priority Target List": [
+          {
+            "row": 70,
+            "company": "Archax"
+          }
+        ],
+        "Do not contact": []
+      },
+      "Tokeny": {
+        "Target list": [],
+        "Priority Target List": [
+          {
+            "row": 68,
+            "company": "Tokeny"
+          }
+        ],
+        "Do not contact": []
+      },
+      "Ownera": {
+        "Target list": [],
+        "Priority Target List": [
+          {
+            "row": 71,
+            "company": "Ownera"
+          }
+        ],
+        "Do not contact": []
+      },
+      "M2": {
+        "Target list": [],
+        "Priority Target List": [
+          {
+            "row": 14,
+            "company": "M2"
+          }
+        ],
+        "Do not contact": []
+      },
+      "Bybit": {
+        "Target list": [
+          {
+            "row": 230,
+            "company": "Bybit EU"
+          }
+        ],
+        "Priority Target List": [
+          {
+            "row": 9,
+            "company": "Bybit Dubai"
+          }
+        ],
+        "Do not contact": []
+      },
+      "Binance MENA": {
+        "Target list": [],
+        "Priority Target List": [
+          {
+            "row": 8,
+            "company": "Binance MENA"
+          }
+        ],
+        "Do not contact": []
+      },
+      "CoinMENA": {
+        "Target list": [],
+        "Priority Target List": [
+          {
+            "row": 10,
+            "company": "CoinMENA"
+          }
+        ],
+        "Do not contact": []
+      },
+      "MidChains": {
+        "Target list": [],
+        "Priority Target List": [
+          {
+            "row": 15,
+            "company": "MidChains"
+          }
+        ],
+        "Do not contact": []
+      },
+      "Aquanow MENA": {
+        "Target list": [],
+        "Priority Target List": [
+          {
+            "row": 7,
+            "company": "Aquanow MENA"
+          }
+        ],
+        "Do not contact": []
+      },
+      "Hex Trust": {
+        "Target list": [],
+        "Priority Target List": [
+          {
+            "row": 13,
+            "company": "Hex Trust Dubai"
+          },
+          {
+            "row": 33,
+            "company": "Hex Trust"
+          }
+        ],
+        "Do not contact": []
+      },
+      "DMZ Finance": {
+        "Target list": [],
+        "Priority Target List": [
+          {
+            "row": 11,
+            "company": "DMZ Finance"
+          }
+        ],
+        "Do not contact": []
+      },
+      "Standard Chartered Digital Assets": {
+        "Target list": [],
+        "Priority Target List": [
+          {
+            "row": 16,
+            "company": "Standard Chartered Digital Assets"
+          }
+        ],
+        "Do not contact": []
+      },
+      "Emirates NBD Digital": {
+        "Target list": [],
+        "Priority Target List": [
+          {
+            "row": 12,
+            "company": "Emirates NBD Digital"
+          }
+        ],
+        "Do not contact": []
+      },
+      "Zand Bank": {
+        "Target list": [],
+        "Priority Target List": [
+          {
+            "row": 18,
+            "company": "Zand Bank"
+          }
+        ],
+        "Do not contact": []
+      },
+      "Wio Bank": {
+        "Target list": [],
+        "Priority Target List": [
+          {
+            "row": 17,
+            "company": "Wio Bank"
+          }
+        ],
+        "Do not contact": []
+      },
+      "stc Bank": {
+        "Target list": [],
+        "Priority Target List": [
+          {
+            "row": 67,
+            "company": "stc Bank"
+          }
+        ],
+        "Do not contact": []
+      },
+      "Saudi National Bank": {
+        "Target list": [],
+        "Priority Target List": [
+          {
+            "row": 66,
+            "company": "Saudi National Bank"
+          }
+        ],
+        "Do not contact": []
+      },
+      "Riyad Bank": {
+        "Target list": [],
+        "Priority Target List": [
+          {
+            "row": 65,
+            "company": "Riyad Bank"
+          }
+        ],
+        "Do not contact": []
+      },
+      "Al Rajhi Bank": {
+        "Target list": [],
+        "Priority Target List": [
+          {
+            "row": 64,
+            "company": "Al Rajhi Bank"
+          }
+        ],
+        "Do not contact": []
+      },
+      "Rain": {
+        "Target list": [],
+        "Priority Target List": [
+          {
+            "row": 63,
+            "company": "Rain"
+          }
+        ],
+        "Do not contact": []
+      },
+      "Bank ABC Digital": {
+        "Target list": [],
+        "Priority Target List": [
+          {
+            "row": 62,
+            "company": "Bank ABC Digital"
+          }
+        ],
+        "Do not contact": []
+      },
+      "Independent Reserve": {
+        "Target list": [],
+        "Priority Target List": [
+          {
+            "row": 34,
+            "company": "Independent Reserve"
+          }
+        ],
+        "Do not contact": []
+      },
+      "DigiFT": {
+        "Target list": [],
+        "Priority Target List": [
+          {
+            "row": 32,
+            "company": "DigiFT"
+          }
+        ],
+        "Do not contact": []
+      },
+      "Matrixport": {
+        "Target list": [],
+        "Priority Target List": [
+          {
+            "row": 35,
+            "company": "Matrixport"
+          }
+        ],
+        "Do not contact": []
+      },
+      "Cobo": {
+        "Target list": [],
+        "Priority Target List": [
+          {
+            "row": 30,
+            "company": "Cobo"
+          }
+        ],
+        "Do not contact": []
+      },
+      "Partior": {
+        "Target list": [],
+        "Priority Target List": [
+          {
+            "row": 37,
+            "company": "Partior"
+          }
+        ],
+        "Do not contact": []
+      },
+      "DBS Digital Exchange": {
+        "Target list": [],
+        "Priority Target List": [
+          {
+            "row": 31,
+            "company": "DBS Digital Exchange"
+          }
+        ],
+        "Do not contact": []
+      },
+      "OCBC": {
+        "Target list": [],
+        "Priority Target List": [
+          {
+            "row": 36,
+            "company": "OCBC"
+          }
+        ],
+        "Do not contact": []
+      },
+      "UOB": {
+        "Target list": [],
+        "Priority Target List": [
+          {
+            "row": 39,
+            "company": "UOB"
+          }
+        ],
+        "Do not contact": []
+      },
+      "StraitsX": {
+        "Target list": [],
+        "Priority Target List": [
+          {
+            "row": 38,
+            "company": "StraitsX"
+          }
+        ],
+        "Do not contact": []
+      },
+      "OSL": {
+        "Target list": [
+          {
+            "row": 234,
+            "company": "OSL EU"
+          }
+        ],
+        "Priority Target List": [
+          {
+            "row": 24,
+            "company": "OSL"
+          }
+        ],
+        "Do not contact": []
+      },
+      "HashKey": {
+        "Target list": [],
+        "Priority Target List": [
+          {
+            "row": 22,
+            "company": "HashKey"
+          }
+        ],
+        "Do not contact": []
+      },
+      "ZA Bank": {
+        "Target list": [],
+        "Priority Target List": [
+          {
+            "row": 25,
+            "company": "ZA Bank"
+          }
+        ],
+        "Do not contact": []
+      },
+      "Mox Bank": {
+        "Target list": [],
+        "Priority Target List": [
+          {
+            "row": 23,
+            "company": "Mox Bank"
+          }
+        ],
+        "Do not contact": []
+      },
+      "bitFlyer": {
+        "Target list": [
+          {
+            "row": 297,
+            "company": "bitFlyer EUROPE"
+          }
+        ],
+        "Priority Target List": [
+          {
+            "row": 29,
+            "company": "bitFlyer"
+          }
+        ],
+        "Do not contact": []
+      },
+      "Coincheck": {
+        "Target list": [],
+        "Priority Target List": [
+          {
+            "row": 26,
+            "company": "Coincheck"
+          }
+        ],
+        "Do not contact": []
+      },
+      "SBI VC Trade": {
+        "Target list": [],
+        "Priority Target List": [
+          {
+            "row": 28,
+            "company": "SBI VC Trade"
+          }
+        ],
+        "Do not contact": []
+      },
+      "GMO Coin": {
+        "Target list": [],
+        "Priority Target List": [
+          {
+            "row": 27,
+            "company": "GMO Coin"
+          }
+        ],
+        "Do not contact": []
+      },
+      "Upbit": {
+        "Target list": [],
+        "Priority Target List": [
+          {
+            "row": 42,
+            "company": "Upbit"
+          }
+        ],
+        "Do not contact": []
+      },
+      "Bithumb": {
+        "Target list": [],
+        "Priority Target List": [
+          {
+            "row": 40,
+            "company": "Bithumb"
+          }
+        ],
+        "Do not contact": []
+      },
+      "Korbit": {
+        "Target list": [],
+        "Priority Target List": [
+          {
+            "row": 41,
+            "company": "Korbit"
+          }
+        ],
+        "Do not contact": []
+      },
+      "Swyftx": {
+        "Target list": [],
+        "Priority Target List": [
+          {
+            "row": 21,
+            "company": "Swyftx"
+          }
+        ],
+        "Do not contact": []
+      },
+      "BTC Markets": {
+        "Target list": [],
+        "Priority Target List": [
+          {
+            "row": 19,
+            "company": "BTC Markets"
+          }
+        ],
+        "Do not contact": []
+      },
+      "CoinSpot": {
+        "Target list": [],
+        "Priority Target List": [
+          {
+            "row": 20,
+            "company": "CoinSpot"
+          }
+        ],
+        "Do not contact": []
+      }
+    }
+  }
+}

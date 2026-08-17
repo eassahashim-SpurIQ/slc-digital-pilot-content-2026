@@ -1,0 +1,440 @@
+1 of many
+Next Steps and Discussion Document
+External
+Inbox
+AI Overview
+Arush shared initial document 
+SLCDigital_SignalBuild_3107.pdf
+ detailing regulator-led signals (FCA, ESMA, Gambling Commission) and prospect lists.
+Veena requested edits to the target list, removing B2B firms and adding consumer/institutional wallets; you shared an AirTable link with your related list.
+Arush shared V1.0 directional email copies; Veena requested walking through the target list based on last week's signal discussion.
+Arush moved the call scheduled for today (Aug 12) to Thursday (tomorrow) to finalize the lead list and discuss campaign setup if copies are final.
+Lauren suggested outreach focus on value (risk, security, CX) over features, gave a 4-week sequence plan, and suggested using "Please advise" as a final email subject.
+By Gemini; there may be mistakes. Learn more
+
+Arush Lakhani
+Attachments
+Jul 31, 2026, 8:47 PM
+to Veena, Gavin, Travis, Numan, me, Elliott
+
+Hi team,
+
+Thank you for the call today. Please find attached the PDF document we discussed.
+
+Please share any additional suggestions beyond those covered during the call. Once we receive your feedback, we can share the first batch of companies, contacts, and outreach copy by Monday.
+
+I have also sent calendar invites for next Tuesday to review and finalize these items, and for Thursday to discuss the next steps.
+
+
+Thanks,
+Arush Lakhani 
+Co-founder, SpurIQ.ai
+Book time on my calendar
+
+
+
+On Thu, Jul 30, 2026 at 6:40 PM Veena Dandapani <veena@slc.digital> wrote:
+Sure tomorrow works if you want to update the invite.
+Regards,
+Veena
+
+On Jul 30, 2026, at 6:59 AM, Arush Lakhani <arush@spuriq.ai> wrote:
+
+﻿
+Hi team,
+Hope you’re having a good week. While you review the domain options Eassa shared, could we move today’s call to the same time tomorrow?
+
+While researching signals that could help us identify interested buyers across wallet and financial services companies, we found that several relevant data points are available through government and regulatory websites, including the FCA and EBA registers, as well as bank websites.
+
+We need one more day to test the feasibility and reliability of these sources before presenting our findings and discussing the approach with you.
+
+Please let me know if the same time tomorrow works, or we can find another suitable slot.
+
+
+Thanks,
+Arush Lakhani 
+Co-founder, SpurIQ.ai
+Book time on my calendar
+
+
+
+On Thu, Jul 30, 2026 at 2:44 PM Eassa Hashim <eassa.hashim@spuriq.ai> wrote:
+Hi All,
+
+Below are some options for domains we can use for SLC, please choose 4-5 or suggest other domain options
+
+slcguardian.com
+slcsecure.com
+slcsecurity.com
+slcauthenticate.com
+slcidentity.com
+slcdigitalco.com
+slcdigitalinc.com
+slcauth.com
+slcdigitalco.com
+slcdigitalcorp.com
+slcdigitaltech.com
+slcdigitalsecurity.com
+slctech.com
+slcsecure.com
+
+On Tue, Jul 28, 2026 at 3:22 PM Eassa Hashim <eassa.hashim@spuriq.ai> wrote:
+Hi Veena,
+
+Thank you for getting this moving. We are excited to begin this engagement with you.
+
+Please find attached the common project tracker we will use moving forward. It captures the detailed activities, timelines, deliverables, criteria for the pilot.
+
+Tracker
+
+For now, the immediate next steps are:
+
+1. Kickoff call
+
+We are set for today at 7:00 PM IST on the Zoom link you shared.
+
+The objective of the call will be to align on:
+
+Which of the five segments we should prioritize first — wallets and payment providers, enterprise workforce and privileged access, banks and digital banks, evidence-grade attestation, and telcos
+SLC's value proposition and proof points for each
+Current sales cycle
+How deals are qualified today, and who receives a qualified lead
+Inputs needed for ICP, signals, messaging, and campaign planning
+2. Domain selection and warm-up
+
+Tejas, marked here, will share domain options with you. Please confirm the domains that work best from your side. Your primary domain is never used for outbound.
+
+Once confirmed, we will begin warming them up. This usually takes 8–10 days, and in parallel we will work on the prospect list, signals, offer structure, and messaging copy.
+
+Please let me know if there is anything else you would like to discuss during today's call.
+
+Thanks,
+Eassa
+
+
+
+--
+Eassa Hashim GTM Specialist Mobile: +91 9745506638
+
+This E-Mail (including any attachments) may contain Confidential and/or legally privileged Information and is meant for the intended recipient(s) only. If you have received this e-mail in error and are not the intended recipient/s, kindly delete this e-mail immediately from your system. You are also hereby notified that any use, any form of reproduction, dissemination, copying, disclosure, modification, distribution and/or publication of this e-mail, its contents or its attachment/s other than by its intended recipient/s is strictly prohibited and may be construed unlawful. Internet Communications cannot be guaranteed to be secure or error-free as information could be delayed, intercepted, corrupted, lost, or may contain viruses. Dextra Labs does not accept any liability for any errors, omissions, viruses or computer shutdown (s) or any kind of disruption/denial of services if any experienced by any recipient as a result of this e-mail.
+ One attachment
+  •  Scanned by Gmail
+
+Arush Lakhani
+Aug 4, 2026, 6:29 PM (13 days ago)
+to Veena, Gavin, Travis, Numan, me, Elliott
+
+Hi team,
+
+Morning. Quick update: the domains and email IDs have been purchased, and the warm-up process is underway.
+Please find attached the initial list covering 50+ companies and 330+ contacts. Eassa is away for a family event, so this is a limited first cut, but it should give you a good sense of the companies and contacts we are targeting. https://docs.google.com/spreadsheets/d/1agia-9dJuJoOKmPrPZOPbxSRzviijN78/edit?gid=1432122651#gid=1432122651
+
+We can discuss the remaining details on our call shortly.
+
+Thanks,
+Arush Lakhani 
+Co-founder, SpurIQ.ai
+Book time on my calendar
+
+Veena Dandapani
+Aug 6, 2026, 6:57 PM (11 days ago)
+to arush, Gavin, Travis, Numan, me, Elliott
+
+Arush
+
+We can discuss and brainstorm on the call..
+Remove (primarily B2B)
+ Airwallex
+Payoneer
+Moneycorp
+Ebury
+3S Money
+Tide
+MultiPass
+thinkmoney
+DiPocket
+-------
+ Add
+Consumer Wallets
+MetaMask
+Trust Wallet
+Phantom
+Exodus
+Ledger Live
+Institutional Wallet Infrastructure
+Fireblocks
+DFNS (already have.. remove)
+BitGo
+Copper
+Taurus
+Anchorage Digital
+Zodia Custody
+Ripple Custody
+Wallet Infrastructure
+WalletConnect
+Privy
+Dynamic
+Magic
+Turnkey
+Safe (formerly Gnosis Safe)
+Web3Auth
+Digital Asset Exchanges & Wallets
+Coinbase Europe
+Kraken
+Bitpanda (Austria)
+Bitstamp (Luxembourg)
+Bitvavo (Netherlands)
+Coinmerce (Netherlands)
+BLOX (Netherlands)
+Bitonic (Netherlands)
+Paymium (France)
+Deblock (France)
+Meria (France)
+Swissquote (Switzerland)
+Amdax (Netherlands)
+Coinmotion (Finland)
+Firi (Norway)
+ZBX (Gibraltar)
+Wirex (UK)
+Revolut (UK/Lithuania)
+Crypto.com (European operations)
+Institutional Digital Assets
+Copper (UK)
+Zodia Custody (UK)
+Taurus (Switzerland)
+Sygnum Bank (Switzerland)
+Archax (UK)
+Tokeny (Luxembourg)
+Ownera (UK)
+UAE
+M2
+Bybit (Dubai)
+Binance MENA
+CoinMENA
+MidChains
+Aquanow MENA
+Hex Trust (Dubai)
+DMZ Finance
+Standard Chartered Digital Assets (UAE)
+Emirates NBD Digital
+Zand Bank
+Wio Bank
+Saudi Arabia
+stc Bank
+Saudi National Bank (digital initiatives)
+Riyad Bank
+Al Rajhi Bank
+Bahrain
+Rain
+CoinMENA
+Bank ABC Digital
+🇸🇬 Asia
+Singapore
+Independent Reserve
+Hex Trust
+DigiFT
+Matrixport
+Cobo
+Partior
+DBS Digital Exchange
+OCBC
+UOB
+StraitsX
+Hong Kong
+OSL
+HashKey
+ZA Bank
+Mox Bank
+Japan
+bitFlyer
+Coincheck
+SBI VC Trade
+GMO Coin
+South Korea
+Upbit
+Bithumb
+Korbit
+Australia
+Swyftx
+Independent Reserve
+BTC Markets
+CoinSpot
+ 
+
+
+
+Veena Dandapani
+Chief Operating Officer
+SLC Digital 
+https://www.slc.digital/
+720-883-5751
+
+
+From: Arush Lakhani <arush@spuriq.ai>
+Sent: Tuesday, August 4, 2026 6:59 AM
+To: Veena Dandapani <veena@slc.digital>; Gavin Targonski <gavin@slc.digital>; Travis McGregor <travis@slc.digital>; Numan Maloney <numan@slc.digital>; eassa.hashim <eassa.hashim@spuriq.ai>; Elliott Whattingham <elliott@slc.digital>
+Subject: Re: Next Steps and Discussion Document
+ 
+
+Eassa Hashim <eassa.hashim@spuriq.ai>
+Aug 6, 2026, 7:29 PM (11 days ago)
+to Veena, arush, Gavin, Travis, Numan, Elliott
+
+Hi Veena,
+
+As discussed please have a look the list : https://airtable.com/invite/l?inviteId=invT4IX7mbRNg1Uyr&inviteToken=b5511f68d5df09f8f60ab803b93a269aa61bd82c9093262376067c58af5da179&utm_medium=email&utm_source=product_team&utm_content=transactional-alerts
+
+Arush Lakhani
+Aug 9, 2026, 11:50 PM (8 days ago)
+Hi, please find V1.0 of the email copies here: https://docs.google.com/document/d/130KIZwar-b-8hCn0MkMBl8KBrsMec6_A__53QEOrtn0/edit?usp=sharing Please note that
+
+Veena Dandapani
+Mon, Aug 10, 5:19 AM (7 days ago)
+to arush, Gavin, Travis, Numan, me, Elliott
+
+Can we also walk through the target list based on the discussion last week on the signals we discussed? 
+
+Veena Dandapani
+Chief Operating Officer
+SLC Digital 
+https://www.slc.digital/
+720-883-5751
+
+
+From: Arush Lakhani <arush@spuriq.ai>
+Sent: Sunday, August 9, 2026 12:20 PM
+To: Veena Dandapani <veena@slc.digital>
+Cc: Gavin Targonski <gavin@slc.digital>; Travis McGregor <travis@slc.digital>; Numan Maloney <numan@slc.digital>; eassa.hashim <eassa.hashim@spuriq.ai>; Elliott Whattingham <elliott@slc.digital>
+Subject: Re: Next Steps and Discussion Document
+ 
+
+Veena Dandapani
+Aug 10, 2026, 5:21 AM (7 days ago)
+to arush, Gavin, Travis, Numan, me, Elliott
+
+Can we get edit access...
+
+Veena Dandapani
+Chief Operating Officer
+SLC Digital 
+https://www.slc.digital/
+720-883-5751
+
+
+From: Arush Lakhani <arush@spuriq.ai>
+Sent: Sunday, August 9, 2026 12:20 PM
+To: Veena Dandapani <veena@slc.digital>
+Cc: Gavin Targonski <gavin@slc.digital>; Travis McGregor <travis@slc.digital>; Numan Maloney <numan@slc.digital>; eassa.hashim <eassa.hashim@spuriq.ai>; Elliott Whattingham <elliott@slc.digital>
+Subject: Re: Next Steps and Discussion Document
+ 
+
+Eassa Hashim <eassa.hashim@spuriq.ai>
+Aug 10, 2026, 9:32 PM (7 days ago)
+to Veena, arush, Gavin, Travis, Numan, Elliott
+
+Hi Veena,
+
+As discussed, please review the details in this link : https://docs.google.com/spreadsheets/d/1imACak9ffAsErmnCOuAlR9jzGGE1tASde4yK1pR52_k/edit?usp=sharing
+
+Arush Lakhani
+Aug 12, 2026, 5:37 PM (5 days ago)
+to Veena, Travis, Gavin, Numan, Elliott, me
+
+Hi team,
+
+We are still finalizing the complete lead list and would like to move today's call to Thursday (tomorrow) at the same time. Numan shared the copies earlier today. If these are final, we can prepare the dashboard, set up the campaigns, and review everything directly on the next call.
+
+Thanks,
+Arush Lakhani 
+Co-founder, SpurIQ.ai
+Book time on my calendar
+
+Veena Dandapani
+Aug 12, 2026, 6:28 PM (5 days ago)
+to anvesha, Lauren, Anvesha, arush, Travis, Gavin, Numan, Elliott, me
+
+Publications - I added the publications to track for signals in your google sheet. 
+Anveesha/Lauren - Please add the events we discussed (e.g. M2020, Finnovate. Etc where our buyer personas participate/speaking).
+
+Regards
+Veena
+
+Veena Dandapani
+Chief Operating Officer
+SLC Digital 
+https://www.slc.digital/
+720-883-5751
+
+
+From: Arush Lakhani <arush@spuriq.ai>
+Sent: Wednesday, August 12, 2026 6:07 AM
+To: Veena Dandapani <veena@slc.digital>; Travis McGregor <travis@slc.digital>; Gavin Targonski <gavin@slc.digital>; Numan Maloney <numan@slc.digital>; Elliott Whattingham <elliott@slc.digital>
+Cc: eassa.hashim <eassa.hashim@spuriq.ai>
+Subject: Re: Next Steps and Discussion Document
+ 
+
+Numan Maloney
+Aug 12, 2026, 7:03 PM (5 days ago)
+to Veena, arush, Travis, Gavin, Elliott, anvesha, Lauren, Anvesha, me
+
+Hi Arush,
+
+
+The copies are not finalized yet, they are my initial drafts for different messaging angles targeting different personas. Just getting some ideas down on the page.
+
+ 
+
+Team (@Veena Dandapani, @Gavin Targonski, @Travis McGregor, @anvesha, @Lauren Tamber) - please review ​docx icon the email template drafts and feel free to add some feedback and/or additional versions of your own prior to tomorrow’s meeting. Gavin, I know you had some concepts that would be great to see in writing.
+
+ 
+
+We can then refine and finalize the list for the SpurIQ campaign.
+
+ 
+
+Thanks,
+
+Numan
+
+...
+
+[Message clipped]  View entire message
+
+Lauren Tamber <Lauren@slc.digital>
+Aug 12, 2026, 8:18 PM (5 days ago)
+to Numan, Veena, arush, Travis, Gavin, Elliott, anvesha, Anvesha, me
+
+Hi Numan,
+
+Overall, I think the templates are good. One principle I try to follow when doing outreach is to focus less on selling the feature and more on selling the value.
+
+I agree with the amendments you’ve made. The person you’re emailing is an individual, so the messaging needs to resonate with what matters to them. For example, if I’m emailing a CTO, I’d think about their day-to-day priorities: efficiency, risk, budgets, scaling etc. The message should then be built around how we can add value in that context. So, yes, I like that the CFO/COO template focuses on areas such as budgets and financial priorities.
+
+I also agree that we should take out “your name came up on register”. It isn’t personal and there’s no real intent behind that messaging.
+
+Personally, I work on a four-week sequence. 
+
+Something along the lines of:
+Week 1 – Introduce the problem/value
+Introduce the challenge and why it’s relevant to them.
+Week 2 – Relevant insight or challenge
+Share an insight around an issue they may be facing.
+Week 3 – Social proof/use case
+Show how we’ve helped similar teams or organisations.
+Week 4 – Simple, direct CTA
+Keep it short and make it easy for them to respond.
+
+For the final email, I’d change the subject line to “Please advise.” I’ve found that a simple, slightly curiosity-driven subject line like that can generate a better open rate.
+
+From my two days of SLC, I think the real value of SLC to a business, sits across four key areas:
+
+1. Reduce fraud and financial risk
+“How much is fraud costing you today - not just in lost money, but in investigation, remediation, customer compensation and operational resource?”
+2. Strengthen security beyond the login
+“You can authenticate a customer successfully at 9am, but how confident are you that the person approving a £50,000 payment at 9:15am is still that customer?”
+3. Protect the customer experience
+“The challenge isn’t just stopping fraud. It’s stopping fraud without making your best customers jump through more hoops.”
+4. Improve security without replacing the existing stack
+“You don’t need to rip out the security infrastructure you’ve already invested in. SLC adds another layer where you need stronger assurance, without turning it into a multi-year transformation programme.”
+
+I think if we build the outreach around these value points, rather than focusing too heavily on the SLC feature itself, the messaging will resonate much more with the individual we’re targeting.
